@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "586533259168",
+    "firebase_url": "https://lasttour-d619e.firebaseio.com",
+    "project_id": "lasttour-d619e",
+    "storage_bucket": "lasttour-d619e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586533259168:android:202c1716d77d4a79",
+        "android_client_info": {
+          "package_name": "articlesapp.zack.com.lasttour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586533259168-h3j47kd5kh3o7ltmigrpnk194kt9u95c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "articlesapp.zack.com.lasttour",
+            "certificate_hash": "cb50cb07b499686fc2930e1a8ef1295e5881c299"
+          }
+        },
+        {
+          "client_id": "586533259168-uavro9vr05ds334h3l4qr895sjqbruj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsJAZW5nNCpfcejLEewddb4tWHrgw0E68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586533259168-uavro9vr05ds334h3l4qr895sjqbruj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

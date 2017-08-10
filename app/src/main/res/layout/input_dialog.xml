@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@drawable/sot"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/edName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:focusableInTouchMode="false"
+        android:hint="Name"
+        android:selectAllOnFocus="true" />
+
+    <EditText
+        android:focusableInTouchMode="false"
+        android:focusable="true"
+        android:selectAllOnFocus="true"
+        android:id="@+id/edDescrption"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint="Description"
+        />
+
+    <Button
+        android:id="@+id/btnBrowser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Browser" />
+
+    <ImageView
+        android:id="@+id/ivImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_launcher" />
+
+    <Button
+        android:id="@+id/btnUpload"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Upload" />
+
+    <Button
+        android:id="@+id/btnSaved"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save" />
+
+</LinearLayout>
